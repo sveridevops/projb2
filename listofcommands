@@ -1,0 +1,19 @@
+git init
+
+git config --global user.name "<username>"
+git config --global user.email "<email>"
+
+git add  <file name>
+git commit -m 
+
+git branch
+git checkout <branch name>
+git merge
+
+git status
+git log
+
+git clone
+git pull
+git remote add
+git push
